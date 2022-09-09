@@ -1,3 +1,7 @@
+## Reddit
+
+Feel free to join our Reddit community at https://www.reddit.com/r/DEPAssistant
+
 ## Willkommen beim Depressions-Assistenten
 
 Hier wird eine Assistenz-App für psychosomatisch erkrankte Menschen entwickelt und verwaltet.
