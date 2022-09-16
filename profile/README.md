@@ -2,6 +2,10 @@
 
 Feel free to join our Reddit community at https://www.reddit.com/r/DEPAssistant
 
+## Discord
+
+We have an unofficial discord area on [Idrinth's Server](https://discord.gg/xHSF8CGPTh)
+
 ## Willkommen beim Depressions-Assistenten
 
 Hier wird eine Assistenz-App für psychosomatisch erkrankte Menschen entwickelt und verwaltet.
