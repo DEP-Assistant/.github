@@ -1,6 +1,6 @@
 ## Reddit
 
-Feel free to join our Reddit community at https://www.reddit.com/r/DEPAssistant
+Feel free to join our Reddit community at https://www.reddit.com/r/DepressionAssistant
 
 ## Discord
 
